@@ -1,16 +1,16 @@
 <p align="center"> 
-  <img alt="Findove icon" src="./web/src/assets/images/landing.svg" c width="280"/>
+  <img alt="Proffy icon" src="./web/src/assets/images/landing.svg" c width="280"/>
 </p> 
 
-<h1 align="center"> Findove </h1>
+<h1 align="center"> Proffy </h1>
 
 <p align="center">
   <a href="https://github.com/ErickLuizA/Proffy/graphs/commit-activity" alt="Maintenance">
     <img src="https://img.shields.io/badge/Maintained%3F-yes-1EAE72.svg" />
   </a>
 
-  <a href="https://findove.netlify.app/" alt="Findove website">
-    <img src="https://img.shields.io/website-up-down-1EAE72-red/https/findove.netlify.app/" />
+  <a href="https://proffys.netlify.app/" alt="Proffy website">
+    <img src="https://img.shields.io/website-up-down-1EAE72-red/https/proffys.netlify.app/" />
   </a>
 
   <a href="./LICENSE" alt="License: MIT">
@@ -43,7 +43,7 @@ Proffy is a app where teachers and students can connect
 
 ## :building_construction: Technologies
 - [ReactJS](https://www.reactjs.org)
-  React-router-dom
+  - React-router-dom
 
 
 
