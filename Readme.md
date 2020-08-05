@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img alt="Proffy icon" src="./web/src/assets/images/landing.svg" c width="280"/>
+  <img alt="Proffy icon" src="./web/src/assets/images/landing.svg"  width="280"/>
 </p> 
 
 <h1 align="center"> Proffy </h1>
@@ -35,6 +35,7 @@
   <a href="#memo-license">License</a>
 </p>
 
+> Under construction
 
 ## :clipboard: Description
 Proffy is a app where teachers and students can connect 
@@ -42,37 +43,63 @@ Proffy is a app where teachers and students can connect
 
 
 ## :building_construction: Technologies
+- [Typescript](https://www.typescriptlang.org)
+
 - [ReactJS](https://www.reactjs.org)
-  - React-router-dom
+  - [React-router-dom](https://reactrouter.com/web/guides/quick-start)
 
-
+- [Node.js](https://nodejs.org/en/)
+  - [Express](https://expressjs.com)
+  - [Knex](http://knexjs.org)
+  - [Pg](https://node-postgres.com)
+  - [Cors](https://www.npmjs.com/package/cors)
+  - [Dotenv](https://www.npmjs.com/package/dotenv)
 
 ## :rocket: Getting Started
 
-1. Download the repository
+## 1. Download the repository
 
 ```shell
  $ git clone https://github.com/ErickLuizA/Proffy.git
 ```
 
-2. Installation
+## 2. Installation
 
 ``` shell
 # Go into the repository
-cd Proffy
+$ cd Proffy
+```
 
+### Web
+
+``` shell
 # Go to the web folder
 $ cd web
 
 # Install dependencies
 $ yarn install
 ```
+### Server
 
-3. Execution
+``` shell
+# Go to the server folder
+$ cd server 
+
+# Install dependencies
+$ yarn install
+```
+
+## 3. Execution
+
+### Web
 
 ```shell
-# Start the web
 $ yarn start
+```
+
+### Server
+```shell
+$ yarn dev
 ```
 
 
