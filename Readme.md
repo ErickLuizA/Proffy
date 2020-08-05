@@ -94,11 +94,13 @@ $ yarn install
 ### Web
 
 ```shell
+# On the web folder
 $ yarn start
 ```
 
 ### Server
 ```shell
+# On the server folder
 $ yarn dev
 ```
 
