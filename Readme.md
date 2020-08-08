@@ -55,6 +55,11 @@ Proffy is a app where teachers and students can connect
   - [Cors](https://www.npmjs.com/package/cors)
   - [Dotenv](https://www.npmjs.com/package/dotenv)
 
+- [React Native](https://reactnative.dev/)
+  - [Expo](https://expo.io)
+  - [React Navigation](https://reactnavigation.org/)
+  
+
 ## :rocket: Getting Started
 
 ## 1. Download the repository
@@ -89,6 +94,15 @@ $ cd server
 $ yarn install
 ```
 
+### Mobile
+``` shell
+# Go to the mobile folder
+$ cd mobile 
+
+# Install dependencies
+$ yarn install
+```
+
 ## 3. Execution
 
 ### Web
@@ -102,6 +116,13 @@ $ yarn start
 ```shell
 # On the server folder
 $ yarn dev
+```
+
+### Mobile
+
+``` shell
+# On the mobile folder
+$ yarn start
 ```
 
 
